@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Yuvraj Singh Solanki
-#### A passinate Web Developer and Machine Learning Enthusist
+#### A passinate Web Developer and Machine Learning Enthusiast
 
 <!--
 **yuvraj-solanki-2406/yuvraj-solanki-2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
