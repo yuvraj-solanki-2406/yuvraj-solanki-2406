@@ -2,7 +2,7 @@
 ## I'm Yuvraj Singh Solanki
 #### A passinate Web Developer and Machine Learning Enthusiast
 
-- 📫 How to reach me **yuvrajsinghsolanki2406@gmail.com**
+📫 How to reach me **yuvrajsinghsolanki2406@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
