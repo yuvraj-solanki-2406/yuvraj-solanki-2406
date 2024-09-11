@@ -4,6 +4,8 @@
 
 📫 Reach me at **yuvrajsinghsolanki2406@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj-solanki-2406&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj Solanki" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yuvraj-solanki-6914701b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/yuvraj-solanki-6914701b4/)" height="30" width="40" /></a>
